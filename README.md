@@ -1,4 +1,4 @@
-<h1><br/><a href="https://github.com/222caleb">Programmer</a>
+<h1> <br/><a href="https://github.com/cdamron2">Computer Science Major, Minor in Cybersecurity</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
