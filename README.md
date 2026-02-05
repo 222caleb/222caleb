@@ -1,7 +1,19 @@
-## Hi there 👋
+<h1><br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Full Stack Web App (React, Python, MongoDB)</b>
+  - [Leeterboard](https://leeterboard.io/)
+- <b>SPI</b>
+  - [Arduino Thermocouple Reader (Arduino Due, SPI)](url goes here)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="CalebDamron | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/caleb-222-damron/
 
 <!--
-**222caleb/222caleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
