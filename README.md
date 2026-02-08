@@ -4,8 +4,8 @@
 
 - <b>Full Stack Web App (React, Python, MongoDB)</b>
   - [Leeterboard](https://leeterboard.io/)
-- <b>SPI</b>
-  - [Arduino Thermocouple Reader (Arduino Due, SPI)](https://github.com/222caleb/ThermocoupleReader)
+- <b>Embedded Systems</b>
+  - [Arduino Thermocouple Reader](https://github.com/222caleb/ThermocoupleReader)
 
 <h2> 🤳 Connect with me:</h2>
 
