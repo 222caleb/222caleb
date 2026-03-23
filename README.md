@@ -6,6 +6,8 @@
   - [Leeterboard](https://leeterboard.io/)
 - <b>Embedded Systems (c++) </b>
   - [Arduino Thermocouple Reader](https://github.com/222caleb/ThermocoupleReader)
+- <b>Full Stack Web App (React, Socket.io, PostgreSQL)</b>
+  - [StinkyMan](https://stinky-man-play.com)
 
 <h2> 🤳 Connect with me:</h2>
 
