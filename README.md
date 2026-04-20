@@ -9,10 +9,10 @@
 
 <h2>👨‍💻 Software Development Projects</h2>
 
-- <b>Full Stack Web App (React, Python, MongoDB)</b>
-  - [Leeterboard](https://leeterboard.io/)
 - <b>Full Stack Web App (React, Socket.io, PostgreSQL)</b>
   - [StinkyMan](https://stinky-man-play.com)
+- <b>Full Stack Web App (React, Python, MongoDB)</b>
+  - [Leeterboard](https://leeterboard.io/)
 - <b>Embedded Systems (C++)</b>
   - [Arduino Thermocouple Reader](https://github.com/222caleb/ThermocoupleReader)
 
